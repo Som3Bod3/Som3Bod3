@@ -1,4 +1,4 @@
-### Hi 👋, my name is Ahmed Chazbijewicz
+### (WORK IN PROGRESS) Hi 👋, my name is Ahmed Chazbijewicz
 #### I am a recent Information Technology graduate with a keen interest in SAP, Cloud Computing and Neural Networks.
 
 - 📧 Reach me via: 
