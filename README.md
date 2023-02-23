@@ -41,7 +41,7 @@ If you'd like to get in touch, you can reach me via: <br/>
 <br/>
 
 ## 🧱 Best Projects
-Here are some of my best projects:
+Here are some of my best projects (WIP):
 <details>
 <summary><b> (👆 CLICK TO EXPAND) </b></summary>
 
