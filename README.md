@@ -14,7 +14,9 @@ Thank you for visiting my GitHub.
 <br/>
 
 ## 📫 Contact Information
-If you'd like to get in touch, you can reach me via:
+If you'd like to get in touch, you can reach me via: <br/>
+[![Gmail](https://img.icons8.com/fluent/48/000000/gmail-new.png)](mailto:ahmed.chazbijewicz@gmail.com)
+[![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/ahmedchazbijewicz/)
 
 <br/>
 
