@@ -1,20 +1,24 @@
 # Welcome to my GitHub 👋
 
-## Summary
+## 📋 Summary
 Hi! My name is **Ahmed Chazbijewicz**, also known as **@Som3Bod3** on GitHub. I am a recent graduate with a title **Bachelor of Engineering in Information Technology**, specializing in software engineering. I have experience in various programming languages such as **C#, C, SQL, Java,** and **Python** and tools such as Unity3D. I have a strong interest in **SAP, Cloud Computing, Neural Networks** and **Machine Learning**. I am highly motivated to apply my skills and knowledge to real-world situations, and I am committed to continuous learning and growth as a professional. 
 
 🎓 I’m currently learning: Machine learning, and exploring advanced topics in Python.
 
 🔭 I’m currently working on: Completing and releasing a mobile arcade game for Android. 
 
-🔎 I am actively seeking a job opportunity as a Junior/Entry SAP Consultant, Cloud DevOps Engineer or ML Engineer, where I can utilize my skills to make a positive impact. 
+🔎 I am actively seeking a job opportunity as a Junior/Entry SAP Consultant, Cloud DevOps Engineer or ML Engineer, where I can grow as an individual and utilize my skills to make a positive impact. 
 
 Thank you for visiting my GitHub.
 
-## Contact Information
+<br/>
+
+## 📫 Contact Information
 If you'd like to get in touch, you can reach me via:
 
-## Languages and Technologies
+<br/>
+
+## 💻 Languages and Technologies
 <details>
 <summary><b> (👆 CLICK TO EXPAND) </b></summary>
 <p float="left">
@@ -32,7 +36,9 @@ If you'd like to get in touch, you can reach me via:
 </p>
 </details>
 
-## Best Projects
+<br/>
+
+## 🧱 Best Projects
 Here are some of my best projects:
 <details>
 <summary><b> (👆 CLICK TO EXPAND) </b></summary>
@@ -63,8 +69,11 @@ Here are some of my best projects:
 
 </details>
 
-## Statistics
+<br/>
+
+## 📈 Statistics
 Here are some statistics about my work on Github:
+
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=Som3Bod3&show_icons=true&count_private=true&theme=dark"
