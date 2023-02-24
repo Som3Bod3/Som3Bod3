@@ -45,17 +45,7 @@ Here are some of my best projects (WIP):
 <details>
 <summary><b> (👆 CLICK TO EXPAND) </b></summary>
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api/pin/?username=Som3Bod3&repo=NeuralNetwork_GeneticAlgorithm_QLearning_Unity&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/pin/?username=Som3Bod3&repo=NeuralNetwork_GeneticAlgorithm_QLearning_Unity&theme=bright"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Som3Bod3&repo=NeuralNetwork_GeneticAlgorithm_QLearning_Unity&theme=bright" />
-</picture>
+
 
 <picture>
 <source 
