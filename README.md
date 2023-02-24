@@ -47,14 +47,14 @@ Here are some of my best projects (WIP):
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api/pin/?username=Som3Bod3&repo=NeuralNetwork_GeneticAlgorithm_QLearning_Unity&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api/pin/?username=Som3Bod3&repo=NeuralNetwork_GeneticAlgorithm_QLearning_Unit&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api/pin/?username=Som3Bod3&repo=NeuralNetwork_GeneticAlgorithm_QLearning_Unity&theme=bright"
+  srcset="https://github-readme-stats.vercel.app/api/pin/?username=Som3Bod3&repo=NeuralNetwork_GeneticAlgorithm_QLearning_Unit&theme=bright"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Som3Bod3&repo=NeuralNetwork_GeneticAlgorithm_QLearning_Unity&theme=bright" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Som3Bod3&repo=NeuralNetwork_GeneticAlgorithm_QLearning_Unit&theme=bright" />
 </picture>
 
 <picture>
@@ -67,6 +67,18 @@ Here are some of my best projects (WIP):
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Som3Bod3&repo=Student_DBMS&theme=bright" />
+</picture>
+  
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/pin/?username=Som3Bod3&repo=STM32_aLED_WS2812B_Controller&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/pin/?username=Som3Bod3&repo=STM32_aLED_WS2812B_Controller&theme=bright"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Som3Bod3&repo=STM32_aLED_WS2812B_Controller&theme=bright" />
 </picture>
 
 </details>
