@@ -1,13 +1,13 @@
 # Welcome to my GitHub 👋
 
 ## 📋 Summary
-Hi! My name is **Ahmed Chazbijewicz**, also known as **@Som3Bod3** on GitHub. I am a recent graduate with a title **Bachelor of Engineering in Information Technology**, specializing in software engineering. I have experience in various programming languages such as **C#, C, SQL, Java,** and **Python** and tools such as Unity3D. I have a strong interest in **SAP, Cloud Computing, Neural Networks** and **Machine Learning**. I am highly motivated to apply my skills and knowledge to real-world situations, and I am committed to continuous learning and growth as a professional. 
+Hi! My name is **Ahmed Chazbijewicz**, also known as **@Som3Bod3** on GitHub. I am a recent graduate with a title **Bachelor of Engineering in Computer Science**, specializing in software engineering. I have experience in various programming languages such as **C#, C, SQL, Java,** and **Python** and tools such as Unity3D. I have a strong interest in **Cloud-Based Development** and **Machine Learning**. I am highly motivated to apply my skills and knowledge to real-world situations, and I am committed to continuous learning and growth as a professional. 
 
 🎓 I’m currently learning: Machine learning, and exploring advanced topics in Python.
 
 🔭 I’m currently working on: Completing and releasing a mobile arcade game for Android. 
 
-🔎 I am actively seeking a job opportunity as a Junior/Entry SAP Consultant, Cloud DevOps Engineer or ML Engineer, where I can grow as an individual and utilize my skills to make a positive impact. 
+🔎 I am actively seeking a job opportunity as a Junior Software Engineer, Cloud DevOps Engineer or ML Engineer, where I can grow as an individual and utilize my skills to make a positive impact. 
 
 Thank you for visiting my GitHub.
 
