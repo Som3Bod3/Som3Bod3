@@ -9,6 +9,8 @@ Hi! My name is **Ahmed Chazbijewicz**, also known as **@Som3Bod3** on GitHub. I 
 
 🔎 I am actively seeking a job opportunity as a Junior Software Engineer, Cloud DevOps Engineer or ML Engineer, where I can grow as an individual and utilize my skills to make a positive impact. 
 
+📃 Take a look at my current resume: [Resume](https://github.com/Som3Bod3/Som3Bod3/blob/main/ChazbijewiczAhmed_ResumeLI.pdf)
+
 Thank you for visiting my GitHub.
 
 <br/>
