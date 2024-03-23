@@ -1,13 +1,7 @@
 # Welcome to my GitHub 👋
 
 ## 📋 Summary
-Hi! My name is **Ahmed Chazbijewicz**, also known as **@Som3Bod3** on GitHub. I am a recent graduate with a title **Bachelor of Engineering in Computer Science**, specializing in software engineering. I have experience in various programming languages such as **C#, C, SQL, Java,** and **Python** and tools such as Unity3D. I have a strong interest in **Cloud-Based Development** and **Machine Learning**. I am highly motivated to apply my skills and knowledge to real-world situations, and I am committed to continuous learning and growth as a professional. 
-
-🎓 I’m currently learning: Machine learning, and exploring advanced topics in Python.
-
-🔭 I’m currently working on: Completing and releasing a mobile arcade game for Android. 
-
-🔎 I am actively seeking a job opportunity as a Junior Software Engineer, Cloud DevOps Engineer or ML Engineer, where I can grow as an individual and utilize my skills to make a positive impact. 
+Hi there! I'm a Junior Software Developer currently working as backend .NET developer. I'm seeking for an opportunity to transition into the world of Game Development. My passion lies in creating immersive experiences, and I have a keen interest in AI and VR technologies, particularly for enhancing gaming experiences. I'm actively exploring opportunities in the gaming industry where I can apply my skills and enthusiasm.
 
 📃 Take a look at my current resume: [Resume](https://github.com/Som3Bod3/Som3Bod3/blob/main/ChazbijewiczAhmed_ResumeLI.pdf)
 
@@ -27,16 +21,20 @@ If you'd like to get in touch, you can reach me via: <br/>
 <summary><b> (👆 CLICK TO EXPAND) </b></summary>
 <p float="left">
   <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
-  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />         
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />   
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" />   
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />    
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />   
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />      
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" />
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />  
 </p>
 </details>
 
@@ -82,6 +80,14 @@ Here are some of my best projects (WIP):
 />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Som3Bod3&repo=STM32_aLED_WS2812B_Controller&theme=bright" />
 </picture>
+<br/>
+
+🎮 Game Projects <br/>
+[Warp Jam (Google Play)](https://play.google.com/store/apps/details?id=com.WaackyGames.WarpJam)<br/>
+[AIGACars (Google Play)](https://play.google.com/store/apps/details?id=com.waackygames.aigacars)<br/>
+[Bomberus (Google Play)](https://play.google.com/store/apps/details?id=waackypanda.unity.mobile2D)<br/>
+[INaBIaF - Space Asteroid Shooter (Itch.io)](https://waackygames.itch.io/inabiaf-space-asteroid-shooter)<br/>
+[TARS - Totally Accurate Racing Simulator (Itch.io)](https://waackygames.itch.io/tars)<br/>
 
 </details>
 
