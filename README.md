@@ -1,7 +1,7 @@
 # Welcome to my GitHub 👋
 
 ## 📋 Summary
-Hi there! I'm a Junior Software Developer currently working as a backend .NET developer. I'm seeking for an opportunity to transition into the world of Game Development. My passion lies in creating captivating experiences, and I have a keen interest in AI and VR technologies, particularly in games. I'm actively exploring opportunities in the gaming industry where I can apply my skills and enthusiasm.
+Hi there! I'm a Junior Software Developer currently working as a backend .NET developer. I'm seeking for an opportunity to transition into the world of Game Development. My passion lies in creating captivating experiences, and I have a keen interest in AI and VR technologies, particularly in video games. I'm actively exploring opportunities in the gaming industry where I can apply my skills and enthusiasm. Take a look at my portfolio below.
 
 📃 Take a look at my current resume: [Resume](https://github.com/Som3Bod3/Som3Bod3/blob/main/ChazbijewiczAhmed_ResumeLI.pdf)
 
@@ -26,6 +26,7 @@ Here are some of my best projects (WIP):
 <br/><br/>
 💾 Other Projects
 <br/><br/>
+
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/pin/?username=Som3Bod3&repo=NeuralNetwork_GeneticAlgorithm_QLearning_Unity&theme=dark"
