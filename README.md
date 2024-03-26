@@ -7,36 +7,6 @@ Hi there! I'm a Junior Software Developer currently working as a backend .NET de
 
 Thank you for visiting my GitHub.
 
-<br/>
-
-## 📫 Contact Information
-If you'd like to get in touch, you can reach me via: <br/>
-[![Gmail](https://img.icons8.com/fluent/48/000000/gmail-new.png)](mailto:ahmed.chazbijewicz@gmail.com)
-[![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/ahmedchazbijewicz/)
-
-<br/>
-
-## 💻 Languages and Technologies
-<details>
-<summary><b> (👆 CLICK TO EXPAND) </b></summary>
-<p float="left">
-  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />   
-  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" />   
-  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />    
-  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
-  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />   
-  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />      
-  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" />
-  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />  
-</p>
-</details>
 
 <br/>
 
@@ -44,7 +14,18 @@ If you'd like to get in touch, you can reach me via: <br/>
 Here are some of my best projects (WIP):
 <details>
 <summary><b> (👆 CLICK TO EXPAND) </b></summary>
-
+<br/>
+🎮 Published Game Projects 
+<br/><br/>
+  
+[Warp Jam (Google Play)](https://play.google.com/store/apps/details?id=com.WaackyGames.WarpJam)<br/>
+[AIGACars (Google Play)](https://play.google.com/store/apps/details?id=com.waackygames.aigacars)<br/>
+[Bomberus (Google Play)](https://play.google.com/store/apps/details?id=waackypanda.unity.mobile2D)<br/>
+[INaBIaF - Space Asteroid Shooter (Itch.io)](https://waackygames.itch.io/inabiaf-space-asteroid-shooter)<br/>
+[TARS - Totally Accurate Racing Simulator (Itch.io)](https://waackygames.itch.io/tars)<br/>
+<br/><br/>
+💾 Other Projects
+<br/><br/>
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/pin/?username=Som3Bod3&repo=NeuralNetwork_GeneticAlgorithm_QLearning_Unity&theme=dark"
@@ -82,14 +63,38 @@ Here are some of my best projects (WIP):
 </picture>
 <br/>
 
-🎮 Game Projects <br/>
-[Warp Jam (Google Play)](https://play.google.com/store/apps/details?id=com.WaackyGames.WarpJam)<br/>
-[AIGACars (Google Play)](https://play.google.com/store/apps/details?id=com.waackygames.aigacars)<br/>
-[Bomberus (Google Play)](https://play.google.com/store/apps/details?id=waackypanda.unity.mobile2D)<br/>
-[INaBIaF - Space Asteroid Shooter (Itch.io)](https://waackygames.itch.io/inabiaf-space-asteroid-shooter)<br/>
-[TARS - Totally Accurate Racing Simulator (Itch.io)](https://waackygames.itch.io/tars)<br/>
-
 </details>
+
+<br/>
+
+## 💻 Languages and Technologies
+<details>
+<summary><b> (👆 CLICK TO EXPAND) </b></summary>
+<p float="left">
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />   
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" />   
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />    
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />   
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />      
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" />
+  <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />  
+</p>
+</details>
+
+<br/>
+
+## 📫 Contact Information
+If you'd like to get in touch, you can reach me via: <br/>
+[![Gmail](https://img.icons8.com/fluent/48/000000/gmail-new.png)](mailto:ahmed.chazbijewicz@gmail.com)
+[![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/ahmedchazbijewicz/)
 
 <br/>
 
